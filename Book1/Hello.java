@@ -1,0 +1,27 @@
+ /* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+*  @author  Vishal Verma
+*  @version 1.0
+*  @since   JDK 1.8.0
+* 
+* 
+*/
+class Hello
+{
+  static public void main(String  ...args)
+{
+	System.out.println("Hello World");
+}
+}

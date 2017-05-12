@@ -1,5 +1,10 @@
 /*
-Coding question form Cracking the coding interview chapter arraylist and Strings using HashMap
+* Coding question form Cracking the coding interview chapter arraylist and Strings using HashMap
+* 
+*  @author  Vishal Verma
+*  @version 1.0
+*  @since   JDK 1.8.0
+* 
 */
 import java.util.*;
 

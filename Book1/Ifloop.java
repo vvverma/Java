@@ -23,12 +23,12 @@ class Ifloop
 {
 	public static void main (String ...args)
 	{
-	boolean b = false;
-	int x= 4;
-	if(b=true)//here assigment statement is used ! 
-	System.out.println(b);
-	else
-	System.out.println(b);
+	//boolean b = false;
+	char a = 'a', b = 'a', c= 'b';
+	char x = (char) (a ^ b);
+	char y = (char) (a ^ a);
+	System.out.println(x);
+	System.out.println(y);
 	
 	
 /*	

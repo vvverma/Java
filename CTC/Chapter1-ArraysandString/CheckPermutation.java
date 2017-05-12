@@ -1,6 +1,11 @@
 /*
-	Write a program to check if the two strings are permutations of each other- question from chatper 1 ctc
-
+* 	Write a program to check if the two strings are permutations of each other- question from chatper 1 ctc
+* 
+* 
+*  @author  Vishal Verma
+*  @version 1.0
+*  @since   JDK 1.8.0
+* 
 */
 
 class CheckPermutation

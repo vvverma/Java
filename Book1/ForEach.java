@@ -10,20 +10,16 @@
 * 
 */
 
-class ForEach
-{
-	public static void main(String args[])
-	{
+class ForEach{
+	public static void main(String args[]){
 		int arr[] = {1,2,3,4,5,6,7,8};
 		//printing the array using forEach
 		for(int i: arr)
-		System.out.println(i + " ");
+		System.out.println(j + " ");
 		System.out.println("  ");		
 		//printing reverse using for loop
 		for (int j = arr.length;j>-1;j--)
 		System.out.println(j + " ");
-	
 	}
-
 
 }

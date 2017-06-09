@@ -1,4 +1,4 @@
-# Java-programs-ocpjp
+# Java
 This repository consists of java programs explaining the fundamental concepts of Object Oriented Programming.
 In order to learn Java programming language more efficietly and quickly, the chapters are grouped into five 
 folders as shown below. Each folder consists of java programs implementing the concept. Read the comments
